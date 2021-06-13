@@ -1,0 +1,1 @@
+Open Xampp control panel and Click Start action of Mysql and Apache. Then Create a database name demo.sql and another database name as foodorder.sql... Import demo.sql file and foodorder.sql in the database. Then Run the Project.
